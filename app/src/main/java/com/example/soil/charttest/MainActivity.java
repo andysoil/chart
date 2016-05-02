@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
     private Calendar myCalendar,myCalendar2;
     public static final String TAG = "MyTag";
 
-    public static String url  = "http://163.17.9.134/android_login_api/chart/chart_show.php" ;
+    public static String url  = "androidchart" ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
